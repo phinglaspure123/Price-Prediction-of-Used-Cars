@@ -121,5 +121,5 @@ Train a random forest model, an ensemble of decision trees.
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpakhinglaspure)
 
- [![Kaggel](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.kaggle.com/pushpakhinglaspure)
+ [![Kaggel](https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3521526-2945029.png)](https://www.kaggle.com/pushpakhinglaspure)
 
